@@ -4,42 +4,33 @@ To simulate a Colpitt Oscillator and to verify the output.
 ## APPARATUS REQUIRED:
 PC with LT Spice software
 ## CIRCUIT DIAGRAM:
+<img width="844" height="722" alt="image" src="https://github.com/user-attachments/assets/a8533d4a-6246-4cb0-80e7-73991573e9da" />
 
 ## SIMULATION PROCEDURE:
-1.	Open the Ltspice software
-2.	
-3.	FileNew Schematic
-4.	
-5.	Click component symbol  to browse and select the components
-6.	
-7.	Click OK and place the component
-8.	
-9.	Search for resistor from component menu or from the tab icons
-10.	
-11.	Place the resistors
-12.	
-15.	Use ctrl + R to rotate the components
-16.	
-17.	Use wire symbol  to connect the components as per the circuit diagram
-18.	
-19.	Right click each components to give the values
-20.	
-21.	Use run button  to run the simulation
-22.	
-23.	Set the step time and click ok
-24.	
-25.	Output dialog box will open
-26.	
-27.	In the output dialog box right click and select add traces
-28.	
-29.	Node voltages and current of each components names will be displayed.
-30.	
-31.	Select the required node voltages (V(n001)) to get the waveforms.
-32.	
-33.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
+1. Open the LTspice software.
+2. File → New Schematic.
+3. Click the Component symbol to browse and select components.
+4. Click OK and place the component.
+5. Search for resistor from the component menu or tab icons.
+6. Place the resistors.
+7. Use Ctrl + R to rotate the components.
+8. Use the Wire symbol to connect the components as per the circuit diagram.
+9. Right-click each component to give the values.
+10. Use the Run button to run the simulation.
+11. Set the step time and click OK.
+12. Output dialog box will open.
+13. In the output dialog box, right-click and select Add Traces.
+14. Node voltages and current of each component will be displayed.
+15. Select the required node voltages (V(n001)) to get the waveforms.
+16. To get the voltage across a component, the trace should represent both nodes (example: V(n001,n002)).
 
-34.	## THEORITICAL CALCULATION:
-35.	
-37.	## OUTPUTS:
 
-38.	## RESULT:
+## THEORITICAL CALCULATION:
+![WhatsApp Image 2025-11-22 at 19 04 27_a6295b29](https://github.com/user-attachments/assets/ede46412-23e9-453f-90bf-472afda85c23)
+
+## OUTPUTS:
+<img width="1008" height="632" alt="image" src="https://github.com/user-attachments/assets/9a0a24d6-c6e1-4e13-a990-2054196ff470" />
+
+## RESULT:
+
+![CO PILOT](https://github.com/user-attachments/assets/27a5819d-f464-49a5-9de1-0673bb9d154c)
