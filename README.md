@@ -30,7 +30,7 @@ PC with LT Spice software
 
 
 ## OUTPUTS:
-<img width="1008" height="632" alt="image" src="https://github.com/user-attachments/assets/9a0a24d6-c6e1-4e13-a990-2054196ff470" />
+<img width="1128" height="740" alt="image" src="https://github.com/user-attachments/assets/cd65267e-b1a2-4343-8acb-282b9b344441" />
 
 ## RESULT:
 
