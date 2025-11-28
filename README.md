@@ -26,11 +26,12 @@ PC with LT Spice software
 
 
 ## THEORITICAL CALCULATION:
-![WhatsApp Image 2025-11-22 at 19 04 27_a6295b29](https://github.com/user-attachments/assets/ede46412-23e9-453f-90bf-472afda85c23)
+![WhatsApp Image 2025-11-28 at 23 13 53_1947b4a4](https://github.com/user-attachments/assets/1bd0f3cb-9f4d-4809-acfd-eb0d20a0c12f)
+
 
 ## OUTPUTS:
 <img width="1008" height="632" alt="image" src="https://github.com/user-attachments/assets/9a0a24d6-c6e1-4e13-a990-2054196ff470" />
 
 ## RESULT:
 
-![CO PILOT](https://github.com/user-attachments/assets/27a5819d-f464-49a5-9de1-0673bb9d154c)
+![WhatsApp Image 2025-11-28 at 23 14 20_ce3ee8de](https://github.com/user-attachments/assets/ba922fc8-15a6-49f1-9543-93ea77856b44)
